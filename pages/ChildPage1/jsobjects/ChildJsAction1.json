@@ -1,7 +1,7 @@
 {
   "unpublishedCollection": {
-    "name": "ParentJsAction1",
-    "pageId": "ParentPage1",
+    "name": "ChildJsAction1",
+    "pageId": "ChildPage1",
     "pluginId": "js-plugin",
     "pluginType": "JS",
     "actions": [],
@@ -19,7 +19,7 @@
     ],
     "userPermissions": []
   },
-  "id": "ParentPage1_ParentJsAction1",
+  "id": "ChildPage1_ChildJsAction1",
   "deleted": false,
-  "gitSyncId": "6380b275804b3a412d14aadc_6380b280804b3a412d14aae8"
+  "gitSyncId": "6380b287804b3a412d14aaea_6380b292804b3a412d14aafc"
 }
